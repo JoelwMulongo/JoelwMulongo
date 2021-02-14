@@ -8,11 +8,4 @@
   </head>
   <body>
     <form action="profile.php" method="post">
-      <select name="gender">
-        <option value="male" selected>Male</option>
-        <option value="female">Female</option>
-      </select>
-      <input type="submit" value="Submit">
-    </form>
-  </body>
-</html>
+      <select na
