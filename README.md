@@ -1,10 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Joel Mulongo👋 an IT student in Kenya. Currently I'm learning C#, C++, Js & Py.. I love anything to do with technology from phones to rockets.
 
-<!--
-**JoelwMulongo/JoelwMulongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 IT student
-- 🌱 Currently learning C#,C++ & Js
--->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>HTML</title>
+  </head>
+  <body>
+    <form action="profile.php" method="post">
+      <select name="gender">
+        <option value="male" selected>Male</option>
+        <option value="female">Female</option>
+      </select>
+      <input type="submit" value="Submit">
+    </form>
+  </body>
+</html>
