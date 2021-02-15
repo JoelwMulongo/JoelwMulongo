@@ -6,11 +6,11 @@
     <a href="https://codepen.io/JoelMulongo"> 
       My <strong>Codepen</strong>
     <a href="https://twitter.com/MulongoJoel?s=09"><br>
-      Get Me on Twitter
+      Get Me on <strong>Twitter</strong>
     <a href="https://www.kaggle.com/joelmulongo"><br>
-      My kaggle Datasets
+      My <strong>Kaggle</strong> Datasets
     <a href="https://medium.com/@joelmulongo97"><br>
-      Read My Medium posts
+      Read My <strong>Medium</strong> posts
     </a>
   </body>
 </html>
