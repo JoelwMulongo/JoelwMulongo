@@ -4,7 +4,7 @@
 <html lang="en">
 <style type="text/css">
       body {
-        color: blue;
+        color: red;
       }
     </style>
   <body>
