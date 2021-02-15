@@ -2,13 +2,7 @@
 
 <!DOCTYPE html>
 <html lang="en">
-  <body> <title> CSS </title>
-<style>
-      .pad10{
-        padding: 10px;
-      }
-      .bg1{
-        background: green;
+  <body>
     <a href="https://codepen.io/JoelMulongo"> 
       My Codepen
     <a href="https://twitter.com/MulongoJoel?s=09"><br>
@@ -17,7 +11,6 @@
       My kaggle Datasets
     <a href="https://medium.com/@joelmulongo97"><br>
       Read My Medium posts
-</Style>
     </a>
   </body>
 </html>
