@@ -2,7 +2,9 @@
 
 <!DOCTYPE html>
 <html lang="en">
-  <body>
+  <body><footer>
+      Copywrite 2019
+    </footer>
     <a href="https://codepen.io/JoelMulongo"> 
       My <strong>Codepen</strong>
     <a href="https://twitter.com/MulongoJoel?s=09"><br>
