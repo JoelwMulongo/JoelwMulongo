@@ -4,7 +4,7 @@
 <html lang="en">
   <body>
     <a href="https://codepen.io/JoelMulongo"> 
-      My Codepen
+      My <strong>Codepen</strong>
     <a href="https://twitter.com/MulongoJoel?s=09"><br>
       Get Me on Twitter
     <a href="https://www.kaggle.com/joelmulongo"><br>
