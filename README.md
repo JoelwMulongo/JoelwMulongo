@@ -11,9 +11,9 @@
       My <strong>Kaggle</strong> Datasets
     <a href="https://medium.com/@joelmulongo97"><br>
       Read My <strong>Medium</strong> posts
-    </a>
+    </a><br><br><br><br>
 <footer>
-      Copyright 2021
+      Copyright 2020
     </footer>
   </body>
 </html>
