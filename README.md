@@ -2,6 +2,11 @@
 
 <!DOCTYPE html>
 <html lang="en">
+<style type="text/css">
+      body {
+        color: blue;
+      }
+    </style>
   <body>
     <a href="https://codepen.io/JoelMulongo"> 
       My <strong>Codepen</strong>
