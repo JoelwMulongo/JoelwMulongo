@@ -2,7 +2,7 @@
 
 <!DOCTYPE html>
 <html lang="en">
-  <body>
+  <body> <title> CSS </title>
 <style>
       .pad10{
         padding: 10px;
