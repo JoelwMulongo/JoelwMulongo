@@ -14,3 +14,26 @@
     </a>
   </body>
 </html>
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+
+    <title>CSS</title>
+
+    <style>
+
+      body{
+
+        margin:0;
+
+        padding:0;
+
+      }
+
+      .pad10{
+
+        padding: 10px;
+
+      }
