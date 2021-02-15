@@ -2,9 +2,7 @@
 
 <!DOCTYPE html>
 <html lang="en">
-  <body><footer>
-      Copywrite 2019
-    </footer>
+  <body>
     <a href="https://codepen.io/JoelMulongo"> 
       My <strong>Codepen</strong>
     <a href="https://twitter.com/MulongoJoel?s=09"><br>
@@ -14,5 +12,8 @@
     <a href="https://medium.com/@joelmulongo97"><br>
       Read My <strong>Medium</strong> posts
     </a>
+<footer>
+      Copyright 2021
+    </footer>
   </body>
 </html>
