@@ -11,7 +11,8 @@
       My <strong>Kaggle</strong> Datasets
     <a href="https://medium.com/@joelmulongo97"><br>
       Read My <strong>Medium</strong> posts
-    </a><br><br><br><br>
+    </a><br><br> 
+![Hello visitors](https://visitor-badge.glitch.me/badge?page_id=joelwmulongo.joelwmulongo)
 <footer>
       Copyright 2020
     </footer>
