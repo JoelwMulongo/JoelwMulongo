@@ -12,6 +12,7 @@
     <a href="https://medium.com/@joelmulongo97"><br>
       Read My <strong>Medium</strong> posts
     </a><br><br> 
+<img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=joelwmulongo">
 
 <footer>
       ©2020
