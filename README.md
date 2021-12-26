@@ -11,6 +11,7 @@
       My <strong>Kaggle</strong> Datasets
     <a href="https://medium.com/@joelmulongo97"><br>
       Read My <strong>Medium</strong> posts
+    <a href="https://stackoverflow.com/users/16901798/joel-mulongo">  
     </a><br>
 <img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=joelwmulongo">
 
