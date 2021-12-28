@@ -14,6 +14,10 @@
     <a href="https://stackoverflow.com/users/16901798/joel-mulongo"><br>
       <strong>StackOverflow</strong>
     </a><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelwmulongo)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joelwmulongo&show_icons=true)  
+
 <img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=joelwmulongo">
 
 <footer>
