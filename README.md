@@ -15,7 +15,8 @@
       <strong>StackOverflow</strong>
     </a><br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joelwmulongo&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joelwmulongo&show_icons=true)  <br>
+      <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelwmulongo&theme=blue-green" alt="Most used language" height="180"></a>
 
 <img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=joelwmulongo">
 
