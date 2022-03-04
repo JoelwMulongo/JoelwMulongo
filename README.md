@@ -22,7 +22,7 @@
     </a>
 </p>
 <a href="https://github.com/joelwmulongo/github-readme-activity-graph"><img alt="Joel Mulongo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=joelwmulongo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+<BR>
       <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelwmulongo&theme=blue-green" alt="Most used language" height="180"></a>
 
 <img width="200" height="40" src="https://visitor-badge.glitch.me/badge?page_id=joelwmulongo">
