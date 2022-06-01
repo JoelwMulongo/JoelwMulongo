@@ -1,5 +1,4 @@
-### Hi there, I'm Joel Mulongo👋 an IT student in Kenya. Currently I'm learning 
- C++, Js & Py.. I love anything to do with technology from phones to rockets.
+### Hi there, I'm Joel Mulongo👋 an IT student in Kenya. Currently I'm learning C++, Js & Py.. I love anything to do with technology.
 
 <!DOCTYPE html>
 <html lang="en">
