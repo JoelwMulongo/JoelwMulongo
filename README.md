@@ -13,8 +13,7 @@
 </p>
 <a href="https://github.com/joelwmulongo/github-readme-activity-graph"><img alt="Joel Mulongo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=joelwmulongo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <BR>
-<img src="https://github.com/joelwmulongo/github-stats/blob/master/generated/languages.svg#gh-light-mode-only"/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelwmulongo&langs_count=9)](https://github.com/anuraghazra/github-readme-stats) <BR>
 <img width="200" height="40" src="https://visitor-badge.glitch.me/badge?page_id=joelwmulongo">
 
 <footer>
