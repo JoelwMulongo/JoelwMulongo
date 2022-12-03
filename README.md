@@ -11,7 +11,6 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Joel Mulongo's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=joelwmulongo&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<a href="https://github.com/joelwmulongo/github-readme-activity-graph"><img alt="Joel Mulongo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=joelwmulongo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <BR>
 <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=joelwmulongo&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
 <BR>
