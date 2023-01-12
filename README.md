@@ -17,7 +17,7 @@
 <img width="200" height="40" src="https://visitor-badge.glitch.me/badge?page_id=joelwmulongo">
 
 <footer>
-      ©2022
+      ©2023
     </footer>
   </body>
 </html>
