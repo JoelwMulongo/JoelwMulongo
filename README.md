@@ -5,7 +5,7 @@
   <body>
     
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joelwmulongo&show_icons=true)  <br>
+
 
 
 <BR>
@@ -13,7 +13,7 @@
 
 
 <footer>
-      ©2025
+      ©2026
     </footer>
   </body>
 </html>
